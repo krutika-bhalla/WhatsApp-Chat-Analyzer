@@ -5,7 +5,7 @@ import plotly.figure_factory as ff
 import plotly.express as px
 import preprocess
 import helper
-import seaborn as sns
+# import seaborn as sns
 
 st.sidebar.title("WhatsApp Chat Analyzer")
 
