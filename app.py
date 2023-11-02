@@ -1,7 +1,7 @@
 import streamlit as st
 # import matplotlib.pyplot as plt
 import plotly.graph_objects as go
-import plotly.figure_factory as ff
+# import plotly.figure_factory as ff
 import plotly.express as px
 import preprocess
 import helper
